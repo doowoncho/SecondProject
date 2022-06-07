@@ -19,7 +19,6 @@ while play == True:
       print(f"sorry thats the wrong number. You have {tries} tries left")
   
   
-  
   if win == True:
     print(f"Congratulations the correct number was {cpuNumber} and it only took you {5-tries} tries!")
   else:
